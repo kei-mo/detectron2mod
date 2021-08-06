@@ -145,7 +145,7 @@ PROJECTS = {
 }
 
 setup(
-    name="detectron2",
+    name="detectron2mod",
     version=get_version(),
     author="FAIR",
     url="https://github.com/facebookresearch/detectron2",
