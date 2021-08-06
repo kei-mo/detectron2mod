@@ -1,6 +1,9 @@
 # Modification of Detectron2
 
 * Detectron2でONNX runtime/ONNXをエクスポートするための編集を行う。
+* 編集を行う方法候補
+  * MaskRNNのmodelを変更して出力を適当な形に変える？   
+  * 
 
 
 
